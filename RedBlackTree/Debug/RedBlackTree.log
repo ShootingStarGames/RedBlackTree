@@ -1,3 +1,5 @@
 ﻿  main.cpp
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(90): warning C4348: 'LysLibrary::rbTree': 기본 매개 변수 재정의. 매개 변수 3
+  c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(92): note: 'LysLibrary::rbTree' 선언을 참조하십시오.
 c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\main.cpp(9): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   RedBlackTree.vcxproj -> C:\Users\zooin\OneDrive\문서\GitHub\RedBlackTree\Debug\RedBlackTree.exe
