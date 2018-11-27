@@ -1,5 +1,18 @@
 ﻿  main.cpp
 c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(90): warning C4348: 'LysLibrary::rbTree': 기본 매개 변수 재정의. 매개 변수 3
   c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(92): note: 'LysLibrary::rbTree' 선언을 참조하십시오.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2143: 구문 오류: ';'이(가) 'LysLibrary::rbTree<Key,Value,Compare>::insert' 앞에 없습니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C7525: 인라인 변수에는 '/std:c++17' 이상이 필요합니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2065: 'Key': 선언되지 않은 식별자입니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2065: '_key': 선언되지 않은 식별자입니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2065: 'Value': 선언되지 않은 식별자입니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2065: '_value': 선언되지 않은 식별자입니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2350: 'LysLibrary::rbTree<Key,Value,Compare>::insert'은(는) 정적 멤버가 아닙니다.
+  c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): note: 'LysLibrary::rbTree<Key,Value,Compare>::insert' 선언을 참조하십시오.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(229): error C2513: 'LysLibrary::rbTree<Key,Value,Compare>::insert': '=' 앞에 변수를 선언하지 않았습니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(230): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(230): error C2059: 구문 오류: '<end Parse>'
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(230): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\redblacktree.hpp(230): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
 c:\users\zooin\onedrive\문서\github\redblacktree\redblacktree\main.cpp(9): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  RedBlackTree.vcxproj -> C:\Users\zooin\OneDrive\문서\GitHub\RedBlackTree\Debug\RedBlackTree.exe
